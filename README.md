@@ -1,6 +1,6 @@
  # <div id="header" align="center"> Hey there <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDAxMWRmMmViODVhOTM2OWFmN2IyZGEyMjRhMWFiMTdkMTUxYmEzYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 </div>
-<img src="images/head.png"/>
+<img src="images/header.png"/>
 
 ## 💻 About me:
 Welcome to my page! I am Fedor. Here you may find my projects and follow my programming journey.
