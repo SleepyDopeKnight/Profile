@@ -4,10 +4,10 @@
 Welcome to my page! I am Fedor. Here you may find my projects and follow my programming journey. 
 Currently, I am studying at Sber **School21** and based in Kazan, Russia.
 
-## How to reach me: <a href="https://t.me/sleepy_dopeknight"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="95"/> </a>
+## 📲 How to reach me: <a href="https://t.me/sleepy_dopeknight"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="95"/> </a>
 
 
-<h2 align="left">🛠️ Languages and Tools:</h2>
+<h2 align="left"> 🛠️ Languages and Tools:</h2>
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -17,7 +17,7 @@ Currently, I am studying at Sber **School21** and based in Kazan, Russia.
 </p>
 
 <br />
-<h2>⚙️ My Projects: </h2>
+<h2> 🧑‍💻 My Projects: </h2>
 
 <details>
   <summary><h2>C</h2></summary>
